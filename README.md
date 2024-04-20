@@ -16,6 +16,4 @@ The test set should be used to see how well your model performs on unseen data. 
 
 https://www.kaggle.com/competitions/titanic
 
-# Result:
-Public URL: NgrokTunnel: "https://8f48-35-188-230-112.ngrok-free.app" -> "http://localhost:5000"
-result of the Titanic survival prediction
+
